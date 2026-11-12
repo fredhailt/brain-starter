@@ -1,0 +1,12 @@
+.DS_Store
+.env
+*.env
+secrets/
+__pycache__/
+*.pyc
+.venv/
+credentials/
+*service-account*.json
+records/.lock
+records/bus/
+*.bak
