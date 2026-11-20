@@ -10,6 +10,8 @@ It is not a course. Open it in Claude Code and use it. Everything in here can be
 
 ## Get it onto your Mac (10 minutes)
 
+**Before you start:** install the Claude desktop app (claude.com/download), sign in with a paid Claude plan, and make a free GitHub account at github.com. That is all you need.
+
 **1. Clone it.** Open the Claude Code desktop app on your projects folder (Code tab, Select folder). Type:
 
 ```

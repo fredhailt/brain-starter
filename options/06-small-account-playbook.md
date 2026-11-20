@@ -25,7 +25,7 @@ Answer honestly. Level 1 or 2 is a fine start; add spreads when you are ready.
 
 The old rule: in a margin account under $25,000, four or more day trades (open and close the same position the same day) within five business days flagged you as a "pattern day trader" and restricted the account.
 
-**It is being retired.** FINRA replaced it with intraday margin standards (Regulatory Notice 26-10), effective June 4, 2026, with brokers allowed to phase in until October 20, 2027. **Ask your broker which rule your account is under.** Trades held 30 to 45 days rarely trigger it, and cash accounts were never subject to it.
+**It is being retired.** FINRA replaced it with intraday margin standards ([Regulatory Notice 26-10](https://www.finra.org/rules-guidance/notices/26-10)), effective June 4, 2026, with brokers allowed to phase in until October 20, 2027. **Ask your broker which rule your account is under.** Trades held 30 to 45 days rarely trigger it, and cash accounts were never subject to it.
 
 ## Defined risk first
 

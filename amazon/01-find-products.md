@@ -12,7 +12,7 @@ A brand is worth calling when **3 or more of its products pass and together they
 
 | Gate | Pass | Kill |
 |---|---|---|
-| Who sells it | 2 or more third-party FBA sellers share the Buy Box | The brand is the only seller, it is private label, there has been about 1 seller in 90 days, or an agency runs the brand on Amazon (for example Pattern) |
+| Who sells it | 2 or more third-party FBA sellers share the Buy Box | The brand is the only seller, it is private label, there has been about 1 seller in 90 days, or an agency runs the brand on Amazon |
 | Amazon itself | Amazon has not sold it in the last year. In stock under 15% of the year and out of stock today is a warning: read the chart and buy smaller | Amazon in stock today, or in stock 15% or more of the year (stricter for a beginner) |
 | Sales | 3 or more a month to count at all | Under 1 sales-rank drop a month: dead |
 | Crowd | 10 or fewer sellers and not climbing | 15 or more sellers (stricter for a beginner), or new sellers piling on in the last 30 days while the price slides (a price war) |

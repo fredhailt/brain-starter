@@ -2,7 +2,7 @@
 
 A **captain** is one AI helper with one job: a seat with its own rule book, the processes it runs, and a finished result for each. Think of each one as a virtual assistant who knows one lane very well. The processes (`05-the-whole-process.md`) are the work; the captain is who runs them.
 
-Give each seat a name. "Ask the restock buyer" is easier to say than "run the reorder process". Ours have names like Scout, Buck (restock), Penny (books), Rev (ads) and Carrie (buyer messages). Pick your own.
+Give each seat a name. "Ask the restock buyer" is easier to say than "run the reorder process". Short first names work well, one per job: one for restock, one for the books, one for ads, one for buyer messages. Pick your own.
 
 ## The seats
 
